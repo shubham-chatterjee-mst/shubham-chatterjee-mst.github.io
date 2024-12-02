@@ -1,0 +1,77 @@
+/* Teaching/Courses Page Styles */
+.teaching h2 {
+  margin-top: 30px;
+  font-size: 1.75rem;
+}
+
+.teaching h3 {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
+
+.teaching ul {
+  list-style: none;
+  padding: 0;
+}
+
+.teaching ul li {
+  margin: 5px 0;
+  padding-left: 10px;
+  position: relative;
+}
+
+.teaching ul li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #007bff;
+}
+
+.course {
+  padding: 20px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.course h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.course ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+.course ul li {
+  margin-bottom: 10px;
+}
+
+.teaching .card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.teaching .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.teaching .card-title {
+  font-size: 1.25rem;
+}
+
+.teaching .card-subtitle {
+  font-size: 1rem;
+  color: #666;
+}
+
+.teaching .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+

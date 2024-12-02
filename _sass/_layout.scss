@@ -51,3 +51,73 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+// Blog and Post TOC styles
+.sticky-top {
+  top: 2rem;
+}
+
+.sidebar-sticky {
+  position: sticky;
+  top: 2rem;
+  height: calc(100vh - 4rem);
+  overflow-y: auto;
+}
+
+.toc-nav {
+  padding: 1rem;
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.25rem;
+  margin-right: 0.5rem;
+  
+  h4 {
+    color: var(--global-text-color);
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+  }
+  
+  .section-nav {
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+
+    .nav-item {
+      margin: 0.5rem 0;
+      
+      .nav-link {
+        color: var(--global-text-color);
+        text-decoration: none;
+        font-size: 0.95rem;
+        padding: 0.2rem 0;
+        display: block;
+        line-height: 1.4;
+        
+        &:hover {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+}
+
+// Adjust main content padding
+.post-main {
+  padding-right: 2rem;
+  
+  h2, h3 {
+    scroll-margin-top: 2rem;
+  }
+}
+
+// Use full width on mobile
+@media (max-width: 767.98px) {
+  .post-main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .post-sidebar {
+    padding: 0 1rem;
+  }
+}
