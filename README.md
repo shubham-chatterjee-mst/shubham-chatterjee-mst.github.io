@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [shubham.chatterjee94@gmail.com](mailto:shubham.chatterjee94@gmail.com)
+Shubham Chatterjee - [shubham.chatterjee94@gmail.com](mailto:shubham.chatterjee94@gmail.com)
 
 Project Link: [https://github.com/shubham-chatterjee-mst/shubham-chatterjee-mst.github.io](https://github.com/shubham-chatterjee-mst/shubham-chatterjee-mst.github.io)
 
