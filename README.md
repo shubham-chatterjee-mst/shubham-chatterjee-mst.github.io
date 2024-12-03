@@ -1,6 +1,5 @@
-# Teaching Website
+# Personal Website
 
-![Website Preview](preview.png)
 
 A modern, responsive, and dynamic website for showcasing course materials and academic content. Built using the [al-folio](https://github.com/alshedivat/al-folio) theme with custom modifications for course management.
 
@@ -93,9 +92,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [shubham.chatterjee94@gmail.com](mailto:shubham.chatterjee94@gmail.com)
 
-Project Link: [https://github.com/yourusername/teaching-website](https://github.com/yourusername/teaching-website)
+Project Link: [https://github.com/shubham-chatterjee-mst/shubham-chatterjee-mst.github.io](https://github.com/shubham-chatterjee-mst/shubham-chatterjee-mst.github.io)
 
 ---
 
