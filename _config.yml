@@ -199,13 +199,6 @@ collections:
 # Enable course categories
 enable_course_categories: true
 
-defaults:
-  - scope:
-      path: ""
-      type: courses
-    values:
-      layout: page
-
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -284,6 +277,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: page
 
 sass:
   style: compressed
