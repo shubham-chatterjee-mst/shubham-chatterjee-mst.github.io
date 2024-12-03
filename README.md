@@ -1,7 +1,6 @@
 # Personal Website
 
-
-A modern, responsive, and dynamic website for showcasing course materials and academic content. Built using the [al-folio](https://github.com/alshedivat/al-folio) theme with custom modifications for course management.
+Code for my website. A modern, responsive, and dynamic website for showcasing course materials and academic content. Built using the [al-folio](https://github.com/alshedivat/al-folio) theme with custom modifications for course management.
 
 ## ✨ Features
 
