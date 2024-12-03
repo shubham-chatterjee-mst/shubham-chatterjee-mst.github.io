@@ -624,7 +624,7 @@ slug: crafting-sop-guide
     <ul>
         <li><a href="https://grad.berkeley.edu/admissions/steps-to-apply/requirements/statement-purpose/" target="_blank">UC Berkeley</a></li>
         <li><a href="https://gradschool.cornell.edu/diversity-inclusion/recruitment/prospective-students/writing-your-statement-of-purpose/" target="_blank">Cornell University</a></li>
-        <li><a href="https://graduate.northeastern.edu/resources/how-to-write-a-statement-of-purpos" target="_blank">Northeastern University</a></li>
+        <li><a href="https://graduate.northeastern.edu/resources/how-to-write-a-statement-of-purpose/" target="_blank">Northeastern University</a></li>
     </ul>
 
 
