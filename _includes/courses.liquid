@@ -1,28 +1,18 @@
-<div class="col">
+<div class="course-item">
   <a href="{{ course.url | relative_url }}">
     <div class="card h-100 hoverable">
       {% if course.img %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=course.img
-          sizes = "250px"
-          alt="course thumbnail"
-          class="card-img-top"
-        %}
+        {% include figure.liquid loading="eager" path=course.img sizes="250px" alt="course thumbnail" class="card-img-top" %}
       {% endif %}
       <div class="card-body">
-        <h2 class="card-title">{{ course.title }}</h2>
         <p class="card-text">{{ course.description }}</p>
-        <div class="row ml-1 mr-1 p-0">
-          {% if course.semester %}
-            <div class="semester-info">
-              <span class="badge bg-secondary">
-                {{ course.semester | replace: "-1", " Spring" | replace: "-2", " Fall" }}
-              </span>
-            </div>
-          {% endif %}
-        </div>
+        {% if course.semester %}
+          <div class="semester-info">
+            <span class="badge bg-secondary">
+              {{ course.semester | replace: "-1", " Spring" | replace: "-2", " Fall" }}
+            </span>
+          </div>
+        {% endif %}
       </div>
     </div>
   </a>

@@ -1,0 +1,222 @@
+.readings {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: var(--global-bg-color);
+  border-radius: 4px;
+  border: 1px solid var(--global-divider-color);
+}
+
+.readings h5 {
+  color: var(--global-theme-color);
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.readings ul {
+  margin-bottom: 1rem;
+}
+
+.readings ul:last-child {
+  margin-bottom: 0;
+}
+
+.readings li {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  color: var(--global-text-color);
+}
+
+.lecture-content {
+  display: grid;
+  gap: 1rem;
+}
+
+.resources {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.resource-card {
+  display: flex;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.resource-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.resource-icon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(var(--global-theme-color-rgb), 0.1);
+  border-radius: 8px;
+  font-size: 1.5rem;
+  color: var(--global-theme-color);
+}
+
+.resource-details {
+  flex: 1;
+}
+
+.resource-details h4 {
+  color: var(--global-theme-color);
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.resource-links {
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .resource-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+.books-section {
+  margin-bottom: 3rem;
+}
+
+.book-category {
+  margin-top: 2rem;
+}
+
+.book-category h3 {
+  color: var(--global-theme-color);
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--global-theme-color);
+}
+
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.book-card {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.book-cover {
+  flex-shrink: 0;
+}
+
+.book-image {
+  width: 120px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.book-details {
+  flex: 1;
+}
+
+.book-details h4 {
+  color: var(--global-theme-color);
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.authors {
+  font-size: 0.9rem;
+  color: var(--global-text-color);
+  margin-bottom: 0.3rem;
+}
+
+.edition {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.8rem;
+}
+
+.description {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.book-links {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.book-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: transparent;
+  color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.book-btn:hover {
+  background: var(--global-theme-color);
+  color: white;
+}
+.resource-cover {
+  flex-shrink: 0;
+}
+
+.resource-image {
+  width: 120px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Update resource card layout for cards with images */
+.resource-card {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .book-card {
+    flex-direction: column;
+  }
+  
+  .book-cover {
+    text-align: center;
+  }
+}
