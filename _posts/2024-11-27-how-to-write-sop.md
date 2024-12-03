@@ -16,15 +16,15 @@ slug: crafting-sop-guide
     </p>
 
     <p>
-        For PhD applicants, it’s essential to understand how an SOP differs from a research statement. While a research statement focuses narrowly on your specific research goals, past projects, and technical expertise, the SOP takes a broader approach. It encompasses not only your research interests but also your personal and academic journey, what drives you to pursue a PhD, and how this program aligns with your aspirations. It’s about connecting your experiences to your motivations and explaining how a PhD fits into your long-term vision. In essence, the SOP is a narrative of why you are uniquely suited for this program, while the research statement dives into the what and how of your research. 
+        For PhD applicants, it’s essential to understand how an SOP differs from a research statement. While a research statement focuses narrowly on your specific research goals, past projects, and technical expertise, the SOP takes a broader approach. It encompasses not only your research interests but also your personal and academic journey, what drives you to pursue a PhD, and how this program aligns with your aspirations. It’s about connecting your experiences to your motivations and explaining how a PhD fits into your long-term vision. In essence, the SOP is a narrative of why you are uniquely suited for this program, while the research statement dives into the what and how of your research.
     </p>
 
     <p>
-        Writing a great SOP requires introspection, research, and the ability to weave a cohesive narrative that connects your past experiences, current goals, and future aspirations. Whether you’re applying for a Master’s, PhD, or professional program, the SOP is your chance to demonstrate not only your qualifications but also your unique perspective and potential to contribute meaningfully to the academic community. 
+        Writing a great SOP requires introspection, research, and the ability to weave a cohesive narrative that connects your past experiences, current goals, and future aspirations. Whether you’re applying for a Master’s, PhD, or professional program, the SOP is your chance to demonstrate not only your qualifications but also your unique perspective and potential to contribute meaningfully to the academic community.
     </p>
 
     <p>
-        In this guide, we’ll walk you through the process of crafting an SOP that stands out. From understanding its purpose to structuring your ideas and avoiding common pitfalls, this article will equip you with practical tips and examples to help you write with clarity, authenticity, and impact. Your SOP is your story—let’s make it one worth reading. 
+        In this guide, we’ll walk you through the process of crafting an SOP that stands out. From understanding its purpose to structuring your ideas and avoiding common pitfalls, this article will equip you with practical tips and examples to help you write with clarity, authenticity, and impact. Your SOP is your story—let’s make it one worth reading.
     </p>
 
 <h2><b>Elements of a Good SOP</b></h2>
@@ -37,7 +37,7 @@ slug: crafting-sop-guide
         Your explanation of what got you interested in Computer Science should start with a vivid, specific moment or experience that planted the seeds of curiosity and passion for the field. For example, you might describe a school project where you built your first software application, such as a simple calculator or a game, and the sense of accomplishment you felt when it worked. Highlight the thrill of solving logical puzzles or seeing your code come to life. Perhaps you encountered a challenge—like debugging a particularly stubborn error—that taught you persistence and introduced you to the problem-solving mindset intrinsic to computer science. 
     <p>
 
-    <p>If your interest was sparked by a mentor, course, or event, describe it in detail. For instance:</p> 
+    <p>If your interest was sparked by a mentor, course, or event, describe it in detail. For instance:</p>
 
         <blockquote>
             <p>
@@ -45,15 +45,15 @@ slug: crafting-sop-guide
             </p>
         </blockquote>
 
-    <p>You can also connect your early interest to specific challenges or questions that motivated you to dig deeper. For example:</p> 
+    <p>You can also connect your early interest to specific challenges or questions that motivated you to dig deeper. For example:</p>
 
         <blockquote>
             <p>"In my undergraduate studies, I encountered a real-world problem: how to optimize energy usage in IoT devices. This challenge pushed me to learn about algorithms, data structures, and machine learning, and I realized the transformative power of computer science in tackling impactful problems."
             </p>
-        </blockquote> 
+        </blockquote>
 
     <p>
-        Admissions committees appreciate authenticity and curiosity. This approach provides a concrete narrative, showcasing your curiosity, determination, and early passion while laying the foundation for your continued pursuit of the field. Use specific details to make the story authentic and relatable, creating a compelling opening that sets the tone for your statement of purpose. 
+        Admissions committees appreciate authenticity and curiosity. This approach provides a concrete narrative, showcasing your curiosity, determination, and early passion while laying the foundation for your continued pursuit of the field. Use specific details to make the story authentic and relatable, creating a compelling opening that sets the tone for your statement of purpose.
     </p>
 
 <h2><b>Why do you want to pursue graduate school—and why now?</b></h2>
@@ -414,7 +414,6 @@ slug: crafting-sop-guide
         Tie this directly to your readiness to secure funding by showing that your skills, track record, and potential to produce impactful research make you a worthwhile investment for the department.
     </p>
 
-
 <h2><b>Core Qualities to Highlight</b></h2>
     <p>Admissions committees want to see evidence of:</p>
     <ul>
@@ -473,7 +472,6 @@ slug: crafting-sop-guide
             especially in fields like AI, healthcare, or environmental science.
         </li>
     </ul>
-
 
 <h2><b>Additional Tips</b></h2>
     <p>
@@ -599,7 +597,6 @@ slug: crafting-sop-guide
         Remember, attention to detail and authenticity are your best allies in this process.
     </p>
 
-
 <h2><b>Conclusion: Bringing Your Story Full Circle</b></h2>
     <p>
         Writing a compelling Statement of Purpose is both an art and a strategic exercise. It’s your opportunity to go beyond grades, 
@@ -626,6 +623,3 @@ slug: crafting-sop-guide
         <li><a href="https://gradschool.cornell.edu/diversity-inclusion/recruitment/prospective-students/writing-your-statement-of-purpose/" target="_blank">Cornell University</a></li>
         <li><a href="https://graduate.northeastern.edu/resources/how-to-write-a-statement-of-purpose/" target="_blank">Northeastern University</a></li>
     </ul>
-
-
-

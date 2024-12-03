@@ -70,13 +70,13 @@ body.sticky-bottom-footer {
   border: 1px solid var(--global-divider-color);
   border-radius: 0.25rem;
   margin-right: 0.5rem;
-  
+
   h4 {
     color: var(--global-text-color);
     margin-bottom: 1rem;
     font-size: 1.1rem;
   }
-  
+
   .section-nav {
     list-style-type: none;
     padding-left: 0;
@@ -84,7 +84,7 @@ body.sticky-bottom-footer {
 
     .nav-item {
       margin: 0.5rem 0;
-      
+
       .nav-link {
         color: var(--global-text-color);
         text-decoration: none;
@@ -92,7 +92,7 @@ body.sticky-bottom-footer {
         padding: 0.2rem 0;
         display: block;
         line-height: 1.4;
-        
+
         &:hover {
           color: var(--global-theme-color);
         }
@@ -104,8 +104,9 @@ body.sticky-bottom-footer {
 // Adjust main content padding
 .post-main {
   padding-right: 2rem;
-  
-  h2, h3 {
+
+  h2,
+  h3 {
     scroll-margin-top: 2rem;
   }
 }
@@ -116,7 +117,7 @@ body.sticky-bottom-footer {
     padding-left: 1rem;
     padding-right: 1rem;
   }
-  
+
   .post-sidebar {
     padding: 0 1rem;
   }

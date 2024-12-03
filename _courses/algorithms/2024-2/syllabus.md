@@ -22,7 +22,6 @@ semester: "2024-2"
     </div>
   </div>
 
-  
   <div class="syllabus-section">
     <div class="section-header">
       <h2>1. Fundamentals of Algorithms</h2>
@@ -72,6 +71,7 @@ semester: "2024-2"
         </ul>
       </li>
     </ul>
+
   </div>
 
   <div class="syllabus-section">
@@ -121,6 +121,7 @@ semester: "2024-2"
       <li>Time complexity analysis</li>
       <li>Practical considerations and optimizations</li>
     </ul>
+
   </div>
 
   <div class="syllabus-section">
@@ -140,6 +141,7 @@ semester: "2024-2"
       <li>Strassen's algorithm</li>
       <li>Comparative analysis and applications</li>
     </ul>
+
   </div>
 
   <div class="syllabus-section">
@@ -196,5 +198,5 @@ semester: "2024-2"
         </ul>
       </li>
     </ul>
-  </div>
 
+  </div>

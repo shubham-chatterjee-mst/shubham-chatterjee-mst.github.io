@@ -1,233 +1,232 @@
 {
-    "basics": {
-        "name": "Shubham Chatterjee",
-        "label": "Researcher and Educator",
-        "email": "shubham.chatterjee@mst.edu",
-        "url": "https://shubham-chatterjee-mst.github.io",
-        "summary": "Experienced researcher in Neural Information Retrieval, Conversational AI, and Knowledge Graphs."
-    },
-    "work": [
+  "basics": {
+    "name": "Shubham Chatterjee",
+    "label": "Researcher and Educator",
+    "email": "shubham.chatterjee@mst.edu",
+    "url": "https://shubham-chatterjee-mst.github.io",
+    "summary": "Experienced researcher in Neural Information Retrieval, Conversational AI, and Knowledge Graphs."
+  },
+  "work": [
     {
-        "name": "University of Edinburgh, Scotland",
-        "position": "Postdoctoral Research Associate",
-        "startDate": "2023-10",
-        "endDate": "2024-08",
-        "summary": "Developed neural IR models and led projects involving Knowledge Graph semantics and LLMs.",
-        "highlights": [
-            "Developed a novel neural IR model that integrates Knowledge Graph semantics to learn query-specific document representations, outperforming several hard baselines by 40-60%.",
-            "Led the development of the Generative Relevance Feedback method leveraging LLMs to derive query expansion terms, improving precision by 5-19%.",
-            "Collaborated on mitigating LLM hallucination tendencies, improving recall by 2-4%.",
-            "Developed personalized conversational systems in collaboration with Radboud University."
-        ]
-    },
-    {
-        "name": "University of Glasgow, Scotland",
-        "position": "Postdoctoral Research Associate",
-        "startDate": "2022-12",
-        "endDate": "2023-09",
-        "summary": "Focused on integrating Knowledge Graph semantics with IR systems and entity-oriented search.",
-        "highlights": [
-            "Collaborated on integrating sparse retrieval models with Knowledge Graph embeddings.",
-            "Worked on large-scale dialogue datasets for multi-session conversational agents."
-        ]
+      "name": "University of Edinburgh, Scotland",
+      "position": "Postdoctoral Research Associate",
+      "startDate": "2023-10",
+      "endDate": "2024-08",
+      "summary": "Developed neural IR models and led projects involving Knowledge Graph semantics and LLMs.",
+      "highlights": [
+        "Developed a novel neural IR model that integrates Knowledge Graph semantics to learn query-specific document representations, outperforming several hard baselines by 40-60%.",
+        "Led the development of the Generative Relevance Feedback method leveraging LLMs to derive query expansion terms, improving precision by 5-19%.",
+        "Collaborated on mitigating LLM hallucination tendencies, improving recall by 2-4%.",
+        "Developed personalized conversational systems in collaboration with Radboud University."
+      ]
     },
     {
-        "name": "University of New Hampshire, Durham, USA",
-        "position": "Postdoctoral Research Fellow",
-        "startDate": "2022-09",
-        "endDate": "2022-12",
-        "summary": "Conducted advanced research in entity-oriented search and information retrieval systems.",
-        "highlights": [
-            "Proposed novel methods for learning query-specific latent entity spaces for IR, outperforming hard baselines by 40-60%.",
-            "Integrated Wikipedia-based entity embeddings into entity ranking models, achieving a 54% improvement on large-scale datasets.",
-            "Collaborated on BERT-based entity representation models, published at IJCKG 2023.",
-            "Focused on using entity retrieval techniques to improve document relevance."
-        ]
+      "name": "University of Glasgow, Scotland",
+      "position": "Postdoctoral Research Associate",
+      "startDate": "2022-12",
+      "endDate": "2023-09",
+      "summary": "Focused on integrating Knowledge Graph semantics with IR systems and entity-oriented search.",
+      "highlights": [
+        "Collaborated on integrating sparse retrieval models with Knowledge Graph embeddings.",
+        "Worked on large-scale dialogue datasets for multi-session conversational agents."
+      ]
     },
     {
-        "name": "University of New Hampshire, Durham, USA",
-        "position": "Graduate Research Assistant",
-        "startDate": "2017-08",
-        "endDate": "2022-08",
-        "summary": "Focused on entity-specific embeddings and neural information retrieval systems.",
-        "highlights": [
-            "Developed entity-specific embedding models published at SIGIR and CIKM.",
-            "Demonstrated improvements in entity ranking by 13-42% on large-scale datasets.",
-            "Proposed a novel probabilistic model for passage ranking, achieving state-of-the-art results."
-        ]
+      "name": "University of New Hampshire, Durham, USA",
+      "position": "Postdoctoral Research Fellow",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
+      "summary": "Conducted advanced research in entity-oriented search and information retrieval systems.",
+      "highlights": [
+        "Proposed novel methods for learning query-specific latent entity spaces for IR, outperforming hard baselines by 40-60%.",
+        "Integrated Wikipedia-based entity embeddings into entity ranking models, achieving a 54% improvement on large-scale datasets.",
+        "Collaborated on BERT-based entity representation models, published at IJCKG 2023.",
+        "Focused on using entity retrieval techniques to improve document relevance."
+      ]
+    },
+    {
+      "name": "University of New Hampshire, Durham, USA",
+      "position": "Graduate Research Assistant",
+      "startDate": "2017-08",
+      "endDate": "2022-08",
+      "summary": "Focused on entity-specific embeddings and neural information retrieval systems.",
+      "highlights": [
+        "Developed entity-specific embedding models published at SIGIR and CIKM.",
+        "Demonstrated improvements in entity ranking by 13-42% on large-scale datasets.",
+        "Proposed a novel probabilistic model for passage ranking, achieving state-of-the-art results."
+      ]
     }
-],
+  ],
 
-    "education": [
-        {
-            "institution": "University of New Hampshire",
-            "area": "Computer Science",
-            "studyType": "PhD",
-            "startDate": "2017-08",
-            "endDate": "2022-09",
-            "score": "3.83/4"
-        },
-        {
-            "institution": "University of New Hampshire",
-            "area": "Computer Science",
-            "studyType": "Master of Science",
-            "startDate": "2016-08",
-            "endDate": "2020-12",
-            "score": "3.83/4"
-        },
-        {
-            "institution": "University of Calcutta",
-            "area": "Computer Science",
-            "studyType": "Master of Science",
-            "startDate": "2015-06",
-            "endDate": "2017-05",
-            "score": "8.54/10"
-        },
-        {
-            "institution": "University of Calcutta",
-            "area": "Computer Science",
-            "studyType": "Bachelor of Science",
-            "startDate": "2012-06",
-            "endDate": "2015-05",
-            "score": "8.43/10"
-        }
-    ],
-    "publications": [
+  "education": [
     {
-        "name": "DyVo: Dynamic Vocabularies for Learned Sparse Retrieval with Entities",
-        "publisher": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
-        "releaseDate": "2024",
-        "url":"https://aclanthology.org/2024.emnlp-main.45",
-        "summary": ""
+      "institution": "University of New Hampshire",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2017-08",
+      "endDate": "2022-09",
+      "score": "3.83/4"
     },
     {
-        "name": "DREQ: Document Re-Ranking Using Entity-based Query Understanding",
-        "publisher": "Proceedings of the 46th European Conference on Information Retrieval (ECIR)",
-        "releaseDate": "2024",
-        "url":"https://arxiv.org/pdf/2401.05939",
-        "summary": ""
+      "institution": "University of New Hampshire",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2016-08",
+      "endDate": "2020-12",
+      "score": "3.83/4"
     },
     {
-        "name": "Adaptive Latent Entity Expansion for Document Retrieval",
-        "publisher": "Proceedings of the First Knowledge-Enhanced Information Retrieval Workshop, ECIR",
-        "releaseDate": "2024",
-        "url":"https://keirworkshop.github.io/assets/files/keir_1.pdf",
-        "summary": ""
+      "institution": "University of Calcutta",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2015-06",
+      "endDate": "2017-05",
+      "score": "8.54/10"
     },
     {
-        "name": "Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search",
-        "publisher": "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
-        "releaseDate": "2024",
-        "url":"https://dl.acm.org/doi/pdf/10.1145/3626772.3657815",
-        "summary": ""
-    },
-    {
-        "name": "TREC iKAT: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants",
-        "publisher": "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
-        "releaseDate": "2024",
-        "url":"https://arxiv.org/pdf/2405.02637",
-        "summary": ""
-    },
-    {
-        "name": "Neural Entity Context Models",
-        "publisher": "Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG)",
-        "releaseDate": "2023",
-        "url":"https://www.research.ed.ac.uk/files/408682286/Neural_Entity_OZA_DOA21102023_AFV_CC_BY.pdf",
-        "summary": ""
-    },
-    {
-        "name": "Generative Relevance Feedback with Large Language Models",
-        "publisher": "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
-        "releaseDate": "2023",
-        "url": "https://arxiv.org/pdf/2304.13157",
-        "summary": ""
-    },
-    {
-        "name": "Generative and Pseudo-Relevant Feedback for Sparse, Dense, and Learned Sparse Retrieval",
-        "publisher": "Proceedings of the Workshop on Large Language Models’ Interpretation and Trustworthiness (CIKM)",
-        "releaseDate": "2023",
-        "url":"https://arxiv.org/pdf/2305.07477",
-        "summary": ""
-    },
-    {
-        "name": "Predicting Guiding Entities for Entity Aspect Linking",
-        "publisher": "Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM)",
-        "releaseDate": "2022",
-        "url": "https://dl.acm.org/doi/pdf/10.1145/3511808.3557671",
-        "summary": ""
-    },
-    {
-        "name": "BERT-ER: Query-Specific BERT Entity Representations for Entity Ranking",
-        "publisher": "Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
-        "releaseDate": "2022",
-        "url": "https://dl.acm.org/doi/pdf/10.1145/3477495.3531944",
-        "summary": ""
-    },
-    {
-        "name": "Wikimarks: Harvesting Relevance Benchmarks from Wikipedia",
-        "publisher": "Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
-        "releaseDate": "2022",
-        "url": "https://dl.acm.org/doi/pdf/10.1145/3477495.3531731",
-        "summary": ""
-    },
-    {
-        "name": "An Entity-Oriented Approach for Answering Topical Information Needs",
-        "publisher": "Proceedings of the 44th European Conference on Information Retrieval (ECIR)",
-        "releaseDate": "2022",
-        "url":"https://par.nsf.gov/servlets/purl/10373343",
-        "summary": ""
-    },
-    {
-        "name": "Entity Retrieval Using Fine-Grained Entity Aspects",
-        "publisher": "Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
-        "releaseDate": "2021",
-        "url": "https://par.nsf.gov/servlets/purl/10300273",
-        "summary": ""
-    },
-    {
-        "name": "Why Does This Entity Matter? Support Passage Retrieval for Entity Retrieval",
-        "publisher": "Proceedings of the 2019 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR)",
-        "releaseDate": "2019",
-        "url": "https://www.cs.unh.edu/~dietz/appendix/support-passage/ictir2019.pdf", 
-        "summary": ""
+      "institution": "University of Calcutta",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-06",
+      "endDate": "2015-05",
+      "score": "8.43/10"
     }
-],
-   "awards": [
+  ],
+  "publications": [
     {
-        "title": "Best Paper Honourable Mention",
-        "date": "2024",
-        "awarder": "ECIR"
+      "name": "DyVo: Dynamic Vocabularies for Learned Sparse Retrieval with Entities",
+      "publisher": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+      "releaseDate": "2024",
+      "url": "https://aclanthology.org/2024.emnlp-main.45",
+      "summary": ""
     },
     {
-        "title": "Outstanding Reviewer Award",
-        "date": "2024",
-        "awarder": "ECIR"
+      "name": "DREQ: Document Re-Ranking Using Entity-based Query Understanding",
+      "publisher": "Proceedings of the 46th European Conference on Information Retrieval (ECIR)",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/pdf/2401.05939",
+      "summary": ""
     },
     {
-        "title": "Distinguished Reviewer Award",
-        "date": "2023",
-        "awarder": "CIKM"
+      "name": "Adaptive Latent Entity Expansion for Document Retrieval",
+      "publisher": "Proceedings of the First Knowledge-Enhanced Information Retrieval Workshop, ECIR",
+      "releaseDate": "2024",
+      "url": "https://keirworkshop.github.io/assets/files/keir_1.pdf",
+      "summary": ""
     },
     {
-        "title": "Outstanding Reviewer Award",
-        "date": "2023",
-        "awarder": "ECIR"
+      "name": "Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search",
+      "publisher": "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+      "releaseDate": "2024",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3626772.3657815",
+      "summary": ""
     },
     {
-        "title": "Dissertation Year Fellowship",
-        "date": "2021",
-        "awarder": "University of New Hampshire"
+      "name": "TREC iKAT: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants",
+      "publisher": "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/pdf/2405.02637",
+      "summary": ""
     },
     {
-        "title": "ACM Travel Grants",
-        "date": "2019-2022",
-        "awarder": "ACM"
+      "name": "Neural Entity Context Models",
+      "publisher": "Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG)",
+      "releaseDate": "2023",
+      "url": "https://www.research.ed.ac.uk/files/408682286/Neural_Entity_OZA_DOA21102023_AFV_CC_BY.pdf",
+      "summary": ""
     },
     {
-        "title": "INSPIRE Fellowship",
-        "date": "2012",
-        "awarder": "Government of India"
+      "name": "Generative Relevance Feedback with Large Language Models",
+      "publisher": "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+      "releaseDate": "2023",
+      "url": "https://arxiv.org/pdf/2304.13157",
+      "summary": ""
+    },
+    {
+      "name": "Generative and Pseudo-Relevant Feedback for Sparse, Dense, and Learned Sparse Retrieval",
+      "publisher": "Proceedings of the Workshop on Large Language Models’ Interpretation and Trustworthiness (CIKM)",
+      "releaseDate": "2023",
+      "url": "https://arxiv.org/pdf/2305.07477",
+      "summary": ""
+    },
+    {
+      "name": "Predicting Guiding Entities for Entity Aspect Linking",
+      "publisher": "Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM)",
+      "releaseDate": "2022",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3511808.3557671",
+      "summary": ""
+    },
+    {
+      "name": "BERT-ER: Query-Specific BERT Entity Representations for Entity Ranking",
+      "publisher": "Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+      "releaseDate": "2022",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3477495.3531944",
+      "summary": ""
+    },
+    {
+      "name": "Wikimarks: Harvesting Relevance Benchmarks from Wikipedia",
+      "publisher": "Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+      "releaseDate": "2022",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3477495.3531731",
+      "summary": ""
+    },
+    {
+      "name": "An Entity-Oriented Approach for Answering Topical Information Needs",
+      "publisher": "Proceedings of the 44th European Conference on Information Retrieval (ECIR)",
+      "releaseDate": "2022",
+      "url": "https://par.nsf.gov/servlets/purl/10373343",
+      "summary": ""
+    },
+    {
+      "name": "Entity Retrieval Using Fine-Grained Entity Aspects",
+      "publisher": "Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+      "releaseDate": "2021",
+      "url": "https://par.nsf.gov/servlets/purl/10300273",
+      "summary": ""
+    },
+    {
+      "name": "Why Does This Entity Matter? Support Passage Retrieval for Entity Retrieval",
+      "publisher": "Proceedings of the 2019 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR)",
+      "releaseDate": "2019",
+      "url": "https://www.cs.unh.edu/~dietz/appendix/support-passage/ictir2019.pdf",
+      "summary": ""
     }
-]
+  ],
+  "awards": [
+    {
+      "title": "Best Paper Honourable Mention",
+      "date": "2024",
+      "awarder": "ECIR"
+    },
+    {
+      "title": "Outstanding Reviewer Award",
+      "date": "2024",
+      "awarder": "ECIR"
+    },
+    {
+      "title": "Distinguished Reviewer Award",
+      "date": "2023",
+      "awarder": "CIKM"
+    },
+    {
+      "title": "Outstanding Reviewer Award",
+      "date": "2023",
+      "awarder": "ECIR"
+    },
+    {
+      "title": "Dissertation Year Fellowship",
+      "date": "2021",
+      "awarder": "University of New Hampshire"
+    },
+    {
+      "title": "ACM Travel Grants",
+      "date": "2019-2022",
+      "awarder": "ACM"
+    },
+    {
+      "title": "INSPIRE Fellowship",
+      "date": "2012",
+      "awarder": "Government of India"
+    }
+  ]
 }
-

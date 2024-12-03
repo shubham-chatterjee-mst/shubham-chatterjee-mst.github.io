@@ -60,6 +60,7 @@ semester: "2024-2"
       </div>
     </div>
     </div>
+
   </div>
 
   <!-- Supplementary Books -->
@@ -109,6 +110,7 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -133,6 +135,7 @@ semester: "2024-2"
     </div>
 
     <div class="resource-card">
+
   <div class="resource-cover">
     <img src="/assets/img/erickson.webp" alt="Algorithms by Jeff Erickson Book Cover" class="resource-image"/>
   </div>
@@ -153,6 +156,7 @@ semester: "2024-2"
 </div>
 
     <div class="resource-card">
+
   <div class="resource-cover">
     <img src="/assets/img/morin.jpeg" alt="Open Data Structures Book Cover" class="resource-image"/>
   </div>
@@ -200,6 +204,7 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>
 </div>
@@ -259,6 +264,7 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -405,6 +411,7 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -533,6 +540,7 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -601,6 +609,7 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -729,6 +738,7 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>
 <!-- Module 5: Dynamic Programming -->
@@ -878,5 +888,6 @@ semester: "2024-2"
         </div>
       </div>
     </div>
+
   </div>
 </div>

@@ -60,6 +60,7 @@ semester: "2024-2"
         </a>
       </div>
     </div>
+
   </div>
 
   <!-- Quick Assignments -->
@@ -98,6 +99,7 @@ semester: "2024-2"
         </a>
       </div>
     </div>
+
   </div>
 
  <!-- Previous Exams -->
@@ -135,6 +137,7 @@ semester: "2024-2"
         Exam PDF
       </a>
     </div> -->
+
   </div>
 </div>
   <!-- Assignment Policies -->

@@ -38,7 +38,3 @@ We are at a transformative moment in the field, where breakthroughs in <strong>L
 <p>
 <strong>Research Interests:</strong> Neural IR, Conversational IR, Entity-Oriented Search, Representation Learning for IR, LLMs for search and recommendation
 </p>
-
-
-
-

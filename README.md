@@ -15,17 +15,20 @@ Code for my website. A modern, responsive, and dynamic website for showcasing co
 ## 🚀 Quick Start
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/yourusername/teaching-website.git
 cd teaching-website
 ```
 
 2. Install dependencies
+
 ```bash
 bundle install
 ```
 
 3. Start the development server
+
 ```bash
 bundle exec jekyll serve
 ```
@@ -55,6 +58,7 @@ bundle exec jekyll serve
 3. Create course-specific pages (syllabus, assignments, etc.)
 
 Example:
+
 ```yaml
 ---
 layout: page

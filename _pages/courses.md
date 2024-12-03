@@ -1,5 +1,5 @@
-<!-- Main courses page (courses.md) -->
----
+## <!-- Main courses page (courses.md) -->
+
 layout: page
 title: Teaching
 permalink: /teaching/
@@ -8,6 +8,7 @@ nav: true
 nav_order: 5
 display_categories: ["CS 2500: Algorithms", "CS 3000: Systems"]
 horizontal: false
+
 ---
 
 <!-- pages/courses.md -->

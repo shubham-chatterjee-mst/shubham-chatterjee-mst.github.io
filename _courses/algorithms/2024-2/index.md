@@ -176,8 +176,6 @@ syllabus: /courses/algorithms/2024-2/syllabus/
   By emphasizing technical writing as a core component of this course, students develop the ability to convey complex ideas with precision and professionalism. This skill not only enhances their understanding of algorithms but also prepares them for advanced academic research, collaborative projects, and professional roles in the field of computer science. Through structured documentation and communication, students learn to make their algorithmic solutions accessible and understandable, a critical capability for success in real-world computational problem-solving.
 </p>
 
-
-  
   <h2 style="font-weight: bold;">Grading and Homeworks</h2>
   <hr>
   <p> Your performance in this course will be assessed through assignments and exams.</p>
@@ -240,5 +238,3 @@ syllabus: /courses/algorithms/2024-2/syllabus/
     </li>
   </ul>
 </div>
-
-

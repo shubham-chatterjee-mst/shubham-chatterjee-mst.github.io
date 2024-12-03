@@ -120,4 +120,3 @@ function togglePastOfferings(id) {
   }
 }
 </script>
-

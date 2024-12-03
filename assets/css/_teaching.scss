@@ -52,7 +52,9 @@
 .teaching .card {
   border: 1px solid #ddd;
   border-radius: 8px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .teaching .card:hover {
@@ -73,5 +75,3 @@
   background-color: #007bff;
   border-color: #007bff;
 }
-
-

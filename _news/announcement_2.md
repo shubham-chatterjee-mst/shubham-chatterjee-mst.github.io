@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Our [paper](https://arxiv.org/abs/2401.05939) won the best paper honorable mention award at ECIR 2024!! I also won the "outstanding reviewer award". 🥳
-

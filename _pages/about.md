@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p><b><a href='https://www.mst.edu/'>Missouri University of Science and Technology, Rolla, Missouri, USA</a></b>.<br> <b>Assistant Professor of Computer Science</b> </p> 
+subtitle: <p><b><a href='https://www.mst.edu/'>Missouri University of Science and Technology, Rolla, Missouri, USA</a></b>.<br> <b>Assistant Professor of Computer Science</b> </p>
 
 profile:
   align: right
@@ -17,8 +17,6 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-
 
 <div style="text-align: justify;">
 
@@ -53,5 +51,3 @@ Prior to that, I was part of the <strong>Text Retrieval, Extraction, Machine Lea
 <p>
 As a researcher and educator, my work focuses on developing systems that move beyond simple information retrieval to understanding, reasoning, and interacting with knowledge. My ultimate goal is to advance the field of AI by building adaptive systems that make information access more personalized, conversational, and impactful across diverse applications.
 </p>
-
-
