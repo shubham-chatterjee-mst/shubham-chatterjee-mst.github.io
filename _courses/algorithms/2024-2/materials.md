@@ -26,7 +26,7 @@ semester: "2024-2"
           <p class="edition">4th Edition, MIT Press, 2022</p>
           <p class="description">Primary textbook covering all major algorithms and data structures. Required for all students.</p>
           <div class="book-links">
-            <a href="https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X" class="book-btn">
+            <a href="https://bit.ly/3VhcR39" class="book-btn">
               <i class="fab fa-amazon"></i>
               Amazon
             </a>
@@ -76,7 +76,7 @@ semester: "2024-2"
         <p class="edition">1st Edition, Pearson, 2005</p>
         <p class="description">Excellent for algorithm design techniques and problem-solving strategies.</p>
         <div class="book-links">
-          <a href="https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358/ref=asc_df_0321295358?mcid=3a869f47707533fcb71335a8e016fa09&tag=hyprod-20&linkCode=df0&hvadid=693033695646&hvpos=&hvnetw=g&hvrand=963359449076060847&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023613&hvtargid=pla-435522981525&psc=1" class="book-btn">
+          <a href="http://bit.ly/3BoHkFM" class="book-btn">
             <i class="fab fa-amazon"></i>
             Amazon
           </a>
