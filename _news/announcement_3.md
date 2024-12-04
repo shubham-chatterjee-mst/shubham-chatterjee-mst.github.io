@@ -60,15 +60,19 @@ This role offers access to state-of-the-art resources, opportunities for collabo
 
 ## **How to Apply**
 
-Interested candidates should submit the following:
+First, eview the admission requirements for the PhD program in Computer Science at Missouri S&T [here](https://cs.mst.edu/graduate-degrees/phd/).
+
+Interested candidates should submit the following application materials as ONE SINGLE PDF [here](https://docs.google.com/forms/d/e/1FAIpQLSdNK9TOxfG_irrcrJpqyU_th0ifUzuNK-pPQnv1eM-iiJtIaA/viewform?usp=sf_link)
 
 - A CV or resume highlighting academic and research achievements.
-- A cover letter detailing your research interests, relevant experience, and motivation for pursuing this position.
+- A statement of purpose detailing your research interests, relevant experience, and motivation for pursuing this position. For guidance on how to write a strong SOP, see [here](https://shubham-chatterjee-mst.github.io/blog/2024/crafting-sop-guide/)
+- A research statement 
+- GRE scores
+- TOELF/IELTS scores (required for international students from non-English speaking countries)
 - Optional: Any relevant publications, project portfolios, or code repositories.
 
 **Application Deadline:** Open until filled.
 
-**Where to submit application?** Please submit your application [here](https://forms.gle/ivHJZfjPCbCtW2qP7)
 ---
 
 # **Commitment to Diversity, Equity, and Inclusion**
