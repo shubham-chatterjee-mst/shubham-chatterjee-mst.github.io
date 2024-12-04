@@ -135,78 +135,57 @@ semester: "2024-2"
     </div>
 
     <div class="resource-card">
-
-  <div class="resource-cover">
-    <img src="/assets/img/erickson.webp" alt="Algorithms by Jeff Erickson Book Cover" class="resource-image"/>
-  </div>
-  <div class="resource-details">
-    <h4>Algorithms by Jeff Erickson</h4>
-    <p class="description">Comprehensive algorithms textbook covering graph algorithms, dynamic programming, and NP-completeness. Includes detailed explanations and exercises. Used in many university courses.</p>
-    <div class="resource-links">
-      <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/" class="book-btn">
-        <i class="fas fa-globe"></i>
-        Website
-      </a>
-      <!-- <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf" class="book-btn">
-        <i class="fas fa-file-pdf"></i>
-        PDF
-      </a> -->
-    </div>
-  </div>
-</div>
-
-    <div class="resource-card">
-
-  <div class="resource-cover">
-    <img src="/assets/img/morin.jpeg" alt="Open Data Structures Book Cover" class="resource-image"/>
-  </div>
-  <div class="resource-details">
-    <h4>Open Data Structures</h4>
-    <p class="description">Implementation-focused algorithm and data structures book by Pat Morin, with versions available in Java, C++, and Python.</p>
-    <div class="resource-links">
-      <a href="https://opendatastructures.org/" class="book-btn">
-        <i class="fas fa-globe"></i>
-        Website
-      </a>
-    </div>
-  </div>
-</div>
-
-    <div class="resource-card">
-      <div class="resource-icon">
-        <i class="fas fa-graduation-cap"></i>
+      <div class="resource-cover">
+        <img src="/assets/img/erickson.webp" alt="Algorithms by Jeff Erickson Book Cover" class="resource-image"/>
       </div>
       <div class="resource-details">
-        <h4>Think Algorithms</h4>
-        <p class="description">Python-focused approach to algorithms by Allen Downey. Perfect for beginners with clear explanations.</p>
-        <p class="tags">Focus: Python Implementation, Basic Concepts</p>
+        <h4>Algorithms by Jeff Erickson</h4>
+        <p class="description">Comprehensive algorithms textbook covering graph algorithms, dynamic programming, and NP-completeness. Includes detailed explanations and exercises. Used in many university courses.</p>
         <div class="resource-links">
-          <a href="https://greenteapress.com/thinkpython2/html/" class="book-btn">
-            <i class="fas fa-book-reader"></i>
-            Read Online
+          <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/" class="book-btn">
+            <i class="fas fa-globe"></i>
+            Website
           </a>
         </div>
       </div>
     </div>
 
     <div class="resource-card">
-      <div class="resource-icon">
-        <i class="fas fa-laptop-code"></i>
+      <div class="resource-cover">
+        <img src="/assets/img/heineman.jpeg" alt="Learning Algorithms by George Heineman Book Cover" class="resource-image"/>
       </div>
       <div class="resource-details">
-        <h4>Visualgo</h4>
-        <p class="description">Interactive visualizations of data structures and algorithms through animation.</p>
+        <h4>Learning Algorithms by George Heineman</h4>
+        <span class="access-badge">S&T Access</span>
+        <p class="description">This book provides concise, practical insights into key algorithms for efficient problem-solving in computer science and software engineering. It combines algorithm analysis, coding challenges, and Python-based implementations to enhance understanding and prepare for technical interviews.</p>
         <div class="resource-links">
-          <a href="https://visualgo.net/" class="book-btn">
-            <i class="fas fa-external-link-alt"></i>
-            Visit Website
+          <a href="https://www.oreilly.com/library/view/learning-algorithms/9781492091059/" class="book-btn">
+            <i class="fas fa-globe"></i>
+            Website
           </a>
         </div>
+        <span class="library-access">Available through Missouri S&T Library</span>
       </div>
     </div>
 
+    <div class="resource-card">
+      <div class="resource-cover">
+        <img src="/assets/img/heineman-pollice-selkow.jpeg" alt="Algorithms in a Nutshell Book Cover" class="resource-image"/>
+      </div>
+      <div class="resource-details">
+        <h4>Algorithms in a Nutshell by George T. Heineman, Gary Pollice, Stanley Selkow</h4>
+        <span class="access-badge">S&T Access</span>
+        <p class="description">This book is a practical guide that helps programmers select and implement the right algorithms for robust software development. With a focus on application over theory, it provides algorithmic solutions in multiple programming languages, performance analysis, and tips for improving efficiency.</p>
+        <div class="resource-links">
+          <a href="https://www.oreilly.com/library/view/algorithms-in-a/9780596516246/" class="book-btn">
+            <i class="fas fa-globe"></i>
+            Website
+          </a>
+        </div>
+        <span class="library-access">Available through Missouri S&T Library</span>
+      </div>
+    </div>
   </div>
-</div>
 </div>
 <!-- Module 1: Fundamentals and Analysis -->
 <div class="syllabus-section">
