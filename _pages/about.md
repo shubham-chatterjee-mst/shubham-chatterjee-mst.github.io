@@ -12,6 +12,7 @@ profile:
     <p>Comp Sci 320 </p>
     <p>500 West 15th Street</p>
     <p>Rolla, MO 65409</p>
+    <p> shubham.chatterjee@mst.edu</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
