@@ -743,7 +743,7 @@ semester: "2024-2"
             <li>Making change</li>
           </ul>
         </div>
-        <div class="readings">
+        <!-- <div class="readings">
           <h5>Required Reading:</h5>
           <ul>
             <li>
@@ -759,7 +759,7 @@ semester: "2024-2"
               </div>
             </li>
           </ul>
-        </div>
+        </div> -->
         <div class="resources">
           <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture23.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
@@ -788,7 +788,7 @@ semester: "2024-2"
             <li>Related problems (Subset Sum, Equal Partition)</li>
           </ul>
         </div>
-        <div class="readings">
+        <!-- <div class="readings">
           <h5>Required Reading:</h5>
           <ul>
             <li>
@@ -804,7 +804,7 @@ semester: "2024-2"
               </div>
             </li>
           </ul>
-        </div>
+        </div> -->
         <div class="resources">
           <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture24.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
@@ -834,7 +834,7 @@ semester: "2024-2"
             <li>Floyd-Warshall Algorithm</li>
           </ul>
         </div>
-        <div class="readings">
+        <!-- <div class="readings">
           <h5>Required Reading:</h5>
           <ul>
             <li>
@@ -850,7 +850,7 @@ semester: "2024-2"
               </div>
             </li>
           </ul>
-        </div>
+        </div> -->
         <div class="resources">
           <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture25.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
