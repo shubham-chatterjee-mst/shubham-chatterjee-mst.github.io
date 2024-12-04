@@ -68,8 +68,7 @@ Interested candidates should submit the following:
 
 **Application Deadline:** Open until filled.
 
-Please send your application materials or direct inquiries to [shubham.chatterjee@mst.edu](mailto:shubham.chatterjee@mst.edu).
-
+**Where to submit application?** Please submit your application [here](https://forms.gle/ivHJZfjPCbCtW2qP7)
 ---
 
 # **Commitment to Diversity, Equity, and Inclusion**
