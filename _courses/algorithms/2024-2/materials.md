@@ -223,7 +223,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture1.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture1.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -240,7 +240,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture2.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture2.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -257,7 +257,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture3.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture3.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -295,7 +295,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture4.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture4.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -331,7 +331,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture5.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture5.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -367,7 +367,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture6.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture6.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -386,7 +386,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture7.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture7.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -404,7 +404,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture8.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture8.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -433,7 +433,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture9.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture9.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -456,7 +456,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture10.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture10.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -487,7 +487,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture11.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture11.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -510,7 +510,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture12.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture12.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -533,7 +533,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture13.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture13.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -561,7 +561,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture17.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture17.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -602,7 +602,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture18.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture18.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -638,7 +638,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture19.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture19.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -667,7 +667,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture20.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture20.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -700,7 +700,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture21.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture21.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -731,7 +731,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture22.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture22.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -782,7 +782,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture23.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture23.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -827,7 +827,7 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture24.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture24.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture Slides
           </a>
@@ -873,15 +873,15 @@ semester: "2024-2"
           </ul>
         </div>
         <div class="resources">
-          <a href="assets/pdf/cs2500-2024-2/Lecture25.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture25.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture 25 Slides
           </a>
-          <a href="assets/pdf/cs2500-2024-2/Lecture26.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture26.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture 26 Slides
           </a>
-          <a href="assets/pdf/cs2500-2024-2/Lecture27.pdf" class="slides-btn">
+          <a href="/assets/pdf/cs2500-2024-2/lectures/Lecture27.pdf" class="slides-btn">
             <i class="fas fa-file-pdf"></i>
             Lecture 27 Slides
           </a>
