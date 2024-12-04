@@ -68,7 +68,7 @@ Interested candidates should submit the following:
 
 **Application Deadline:** Open until filled.
 
-Please send your application materials or direct inquiries to [Your Name] at [Your Email Address].
+Please send your application materials or direct inquiries to [shubham.chatterjee@mst.edu](mailto:shubham.chatterjee@mst.edu).
 
 ---
 

@@ -4,7 +4,7 @@ title: "CS 5001: Information Retrieval"
 description: Foundations of Information Retrieval Systems
 img: assets/img/ir.webp
 course: "CS 5001: Information Retrieval"
-semester: "2024-1"
+semester: "2025-1"
 permalink: /courses/ir/2025-1/
 syllabus: /courses/ir/2025-1/syllabus/
 ---
