@@ -107,7 +107,7 @@ semester: "2024-2"
   <h2>Previous Exams</h2>
   <div class="topic-overview">
     <div class="topic-card">
-      <h4>Midterm Exam 1</h4>
+      <h4>Midterm Exam v1</h4>
       <a href="/assets/pdf/cs2500-2024-2/previous-exams/midterm2023-1.pdf" class="slides-btn">
         <i class="fas fa-file-pdf"></i>
         Exam PDF
@@ -115,15 +115,15 @@ semester: "2024-2"
     </div>
 
     <div class="topic-card">
-      <h4>Midterm Exam 2</h4>
+      <h4>Midterm Exam v2</h4>
       <a href="/assets/pdf/cs2500-2024-2/previous-exams/midterm2023-2.pdf" class="slides-btn">
         <i class="fas fa-file-pdf"></i>
         Exam PDF
       </a>
     </div>
 
-    <!-- <div class="topic-card">
-      <h4>2023-1 Final Exam</h4>
+    <div class="topic-card">
+      <h4>2023-1 Final Exam v1</h4>
       <a href="/assets/pdf/cs2500-2024-2/previous-exams/final2023-1.pdf" class="slides-btn">
         <i class="fas fa-file-pdf"></i>
         Exam PDF
@@ -131,12 +131,12 @@ semester: "2024-2"
     </div>
 
     <div class="topic-card">
-      <h4>2023-2 Final Exam</h4>
+      <h4>2023-2 Final Exam v2</h4>
       <a href="/assets/pdf/cs2500-2024-2/previous-exams/final2023-2.pdf" class="slides-btn">
         <i class="fas fa-file-pdf"></i>
         Exam PDF
       </a>
-    </div> -->
+    </div> 
 
   </div>
 </div>
