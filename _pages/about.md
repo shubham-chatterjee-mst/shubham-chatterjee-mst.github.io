@@ -52,3 +52,8 @@ Prior to that, I was part of the <strong>Text Retrieval, Extraction, Machine Lea
 <p>
 As a researcher and educator, my work focuses on developing systems that move beyond simple information retrieval to understanding, reasoning, and interacting with knowledge. My ultimate goal is to advance the field of AI by building adaptive systems that make information access more personalized, conversational, and impactful across diverse applications.
 </p>
+
+<h3 style="color: #bb2222; margin-top: 0;">Important Notice</h3>
+<p style="font-size: 16px; line-height: 1.5;">Please <strong>do not contact me</strong> for PhD positions or paid RA (Research Assistant) positions. I currently do <strong>not have funding</strong> and will not be able to reply to such emails.</p>
+<p style="font-size: 16px; line-height: 1.5;">I do not plan to hire more RAs or PhD students in the foreseeable future unless we secure a major grant.</p>
+<p style="font-size: 16px; line-height: 1.5;">However, if you are looking to gain research experience and work with us on a project that could lead to a research paper, please contact the PI; he would be happy to collaborate with you. Please note that these positions will be <strong>unpaid</strong>.</p>

@@ -5,7 +5,7 @@ description: Courses I teach at Missouri S&T
 permalink: /teaching/
 nav: true
 nav_order: 5
-display_categories: ["CS 2500: Algorithms", "CS 5001: Information Retrieval", "CS 6001: Neural Information Retrieval"]
+display_categories: ["CS 2500: Algorithms", "CS 5001: Information Retrieval"]
 horizontal: true
 ---
 
