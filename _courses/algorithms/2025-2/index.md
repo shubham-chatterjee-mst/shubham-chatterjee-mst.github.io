@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "CS 6001: Neural Information Retrieval"
-description: Neural Approaches to Information Retrieval
-img: assets/img/neural_ir.webp
-course: "CS 6001: Neural Information Retrieval"
+title: "CS 2500: Algorithms"
+description: Introduction to Algorithm Design and Analysis
+img: assets/img/algorithms.webp
+course: "CS 2500: Algorithms"
 semester: "2025-2"
-permalink: /courses/neural_ir/2025-2/
-syllabus: /courses/neural_ir/2025-2/syllabus/
+permalink: /courses/algorithms/2025-2/
+syllabus: /courses/algorithms/2025-2/syllabus/
 ---
 
 <style>
