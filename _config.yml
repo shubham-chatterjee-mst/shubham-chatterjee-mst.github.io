@@ -133,33 +133,33 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: The Research Chronicle # blog_name will be displayed in your blog page
-blog_description: This blog is about academia and machine learning. I share tips on writing SOPs, applying for PhD programs, and navigating academic life. I also write about machine learning topics, including concepts, techniques, and applications. Whether you're a student planning to pursue research or someone interested in AI, you'll find helpful and practical content here.
-permalink: /blog/:year/:title/
-lsi: true # produce an index for related posts
+# blog_name: The Research Chronicle # blog_name will be displayed in your blog page
+# blog_description: This blog is about academia and machine learning. I share tips on writing SOPs, applying for PhD programs, and navigating academic life. I also write about machine learning topics, including concepts, techniques, and applications. Whether you're a student planning to pursue research or someone interested in AI, you'll find helpful and practical content here.
+# permalink: /blog/:year/:title/
+# lsi: true # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+ enabled: false
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#  enabled: true
+#  max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: shubham-chatterjee-mst/my-blog-comments
-  repo_id: R_kgDONVPv5g
-  category: Announcements # name of the category under which discussions will be created
-  category_id: DIC_kwDONVPv5s4CkoMI # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: pathname # identify discussions by post title
-  strict: 0 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
+# giscus:
+#   repo: shubham-chatterjee-mst/my-blog-comments
+#   repo_id: R_kgDONVPv5g
+#   category: Announcements # name of the category under which discussions will be created
+#   category_id: DIC_kwDONVPv5s4CkoMI # leave empty or specify your category_id (see https://giscus.app/)
+#   mapping: pathname # identify discussions by post title
+#   strict: 0 # use strict identification mode
+#   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+#   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+#   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+#   emit_metadata: 0
+#   lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: # put your disqus shortname
