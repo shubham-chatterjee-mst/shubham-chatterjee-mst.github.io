@@ -13,6 +13,8 @@ profile:
     <p>500 West 15th Street</p>
     <p>Rolla, MO 65409</p>
     <p> shubham.chatterjee@mst.edu</p>
+    <p> <a href='https://sites.mst.edu/schatterjee/'>Official Website</a></p><br>
+    <p><a href='https://sites.mst.edu/iris/'>IRIS Group</a></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 <div style="text-align: justify;">
 
 <p>
-I'm <strong>Shubham Chatterjee</strong>, an Assistant Professor of Computer Science at <strong>Missouri University of Science and Technology (Missouri S&T)</strong>. My research is driven by the mission to redefine how we access and understand information in the digital age. I focus on pushing the boundaries of <strong>Information Retrieval (IR)</strong> and <strong>Retrieval Augmented Generation (RAG)</strong> using <strong>Large Language Models (LLMs)</strong>, striving to create smarter, more intuitive systems that bridge the gap between complex data and human understanding.
+I'm <strong>Shubham Chatterjee</strong>, an Assistant Professor of Computer Science at <strong>Missouri University of Science and Technology (Missouri S&T)</strong>. My research is driven by the mission to redefine how we access and understand information in the digital age. I focus on pushing the boundaries of <strong>Information Retrieval (IR)</strong> and <strong>Retrieval Augmented Generation (RAG)</strong> using <strong>Large Language Models (LLMs)</strong>, striving to create smarter, more intuitive systems that bridge the gap between complex data and human understanding. I lead the <a href='https://sites.mst.edu/iris/'>Intelligent Retrieval and Information Systems (IRIS) Group</a> at Missouri S&T. 
 </p>
 
 <p>
